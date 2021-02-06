@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["define","v360"],"mappings":";;;;;;;AAAAA,QACC,UACC,SAASC,GACV,OAAOA","file":"../main.js","sourcesContent":["define([\r\n\t\"./v360\"\r\n],function(v360){\r\n\treturn v360;\r\n});"]}
